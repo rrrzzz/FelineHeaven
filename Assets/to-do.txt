@@ -1,0 +1,2 @@
+- Add "cat gun", cats should fly in the direction you are facing
+- Next cat should be visible in player's "hands"
